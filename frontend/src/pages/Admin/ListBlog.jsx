@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import BlogTableItem from '../../components/admin/BlogtableItem';
+import BlogTableItem from '../../components/admin/BlogTableItem';
 import { useAppContext } from '../../context/appContext';
 import toast from 'react-hot-toast';
 
